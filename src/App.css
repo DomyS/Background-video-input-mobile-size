@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
+.App {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+.input {
+  border-radius: 20px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  border: none;
+  height: 6vh;
+  width: 45vw;
+}
+.mainInput {
+  position: relative;
+  margin-top: 20%;
+}
